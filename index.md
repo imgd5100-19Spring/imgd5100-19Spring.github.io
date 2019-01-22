@@ -1,15 +1,17 @@
 # IMGD 5100
 
+- **Instructor:** [Charlie Roberts](http://charlie-roberts.com)
+- **Office:** Fuller B24B (in IMGD suite)
+- **Email:** <cdroberts@wpi.edu>
+- **Office Hours:** Wednesday, 2–4 PM. Try to make it to my listed office hours _first_. If you have a conflict with that time, direct message me on Slack with a few alternative times that work for you. Appointments are generally for discussing grades and course progress; for technical questions / assignment questions please use the public Slack channels so that everyone can benefit from the discourse. Finally, I am always excited to take appointments with students interested in doing research / projects with me (independent study, thesis advising/reading, etc.); come say hi! 
+- **Course Website:** <https://imgd5100-19Spring.github.io/>
+- **Course Slack site:** [https://imgd5100-19spring.slack.com](https://join.slack.com/t/imgd5100-19spring/shared_invite/enQtNTI5Mjk0MDI2Mjg4LTI0MzU4NDBjMGZlZDA1Y2JiOTk5YmY5MjMyNTYwYTEwNDVmZTQ1ODM4OGIwYWIzZTgyOTc4NGZkZjBmNDAyMGQ)
+
 ## Course Description
 IMGD 5100 will discuss interaction through the lens of *immersion*, considering issues of embodiment, creative flow, and user engagement. Assignments in the class will reach across a variety of different mediums to explore user interaction: text-only, audio-only, graphical, and integrated multimodal approaches. Additonal goals include studying fundamental human-computer interaction principles, practicing critique, and exposure to a variety of technologies for interaction and user experience design. A general outline of the course is given below.
 
 ## Keep up with course announcements and participate on the Slack channel
-Join the course Slack workspace here: 
-https://join.slack.com/t/imgd5100-19spring/shared_invite/enQtNTI5Mjk0MDI2Mjg4LTI0MzU4NDBjMGZlZDA1Y2JiOTk5YmY5MjMyNTYwYTEwNDVmZTQ1ODM4OGIwYWIzZTgyOTc4NGZkZjBmNDAyMGQ
-
-Important announcements will be made via Slack, so make sure you're logging on regularly. This is also the best place to ask questions... and hopefully answer when you have some expertise to share! Information shared on Slack will include topics like assignment adjustments.
-
-Stay on top of the course communications!
+[Join the course Slack workspace](https://join.slack.com/t/imgd5100-19spring/shared_invite/enQtNTI5Mjk0MDI2Mjg4LTI0MzU4NDBjMGZlZDA1Y2JiOTk5YmY5MjMyNTYwYTEwNDVmZTQ1ODM4OGIwYWIzZTgyOTc4NGZkZjBmNDAyMGQ)! Important announcements will be made via Slack, so make sure you're logging on regularly. This is also the best place to ask questions... and hopefully answer when you have some expertise to share! Information shared on Slack will include topics like assignment adjustments. Stay on top of the course communications!
 
 ## Grades
 50% [Weekly assignments](https://imgd5100-19spring.github.io/assignments)  
