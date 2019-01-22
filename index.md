@@ -12,7 +12,7 @@ Important announcements will be made via Slack, so make sure you're logging on r
 Stay on top of the course communications!
 
 ## Grades
-50% Weekly assignments  
+50% [Weekly assignments](https://imgd5100-19spring.github.io/assignments)  
 50% Project(s)
 
 ## Attendance
